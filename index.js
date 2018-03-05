@@ -3,13 +3,12 @@ const prices = require('./prices.json');
 const { createServer } = require('http');
 
 // Now cli requires an HTTP server to deploy the app
-// const server = createServer(() => {});
-// server.listen(3000);
+const server = createServer(() => {});
+server.listen(3000);
 
 // Uncomment these lines if running locally (see readme for more details)
-const config = require('./config.js');
-
-process.env = config;
+// const config = require('./config.js');
+// process.env = config;
 
 const T = new Twit({
   consumer_key: process.env.consumer_key,
