@@ -37,18 +37,23 @@ const formatNumber = (number) => {
 
 const comparePrices = () => {
   const itemA = pickRandomItem();
-  const itemB = pickRandomItem();
+  let itemB;
 
-  const priceA = stringToNumber(prices[itemA].price);
-  const priceB = stringToNumber(prices[itemB].price);
+  // If the price of itemA is too low, we will never find a match
+  if (stringToNumber(prices[itemA].price) < 5) {
+    comparePrices();
+  }
 
   // We need to make sure the price different between the two items goes in the right direction and is big enough
-  if (priceA / priceB < 2) {
-    comparePrices();
-  } else {
-    selectedItemA = itemA;
-    selectedItemB = itemB;
+  while (
+    itemB === undefined ||
+    stringToNumber(prices[itemA].price) / stringToNumber(prices[itemB].price) < 2
+  ) {
+    itemB = pickRandomItem();
   }
+
+  selectedItemA = itemA;
+  selectedItemB = itemB;
 };
 
 // Build and post the tweet
