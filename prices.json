@@ -107,6 +107,14 @@
     "plural": "cancer treatments (including chemo)",
     "price": "117,260"
   },
+  "a small rural house": {
+    "plural": "small rural houses",
+    "price": "100,000"
+  },
+  "a Tesla model X": {
+    "plural": "Teslas (model X)",
+    "price": "85,000"
+  },
   "Prince William and Kate Middleton's wedding cake": {
     "plural": "times Prince William and Kate Middleton's wedding cake",
     "price": "78,000"
@@ -115,9 +123,21 @@
     "plural": "yearly average wages in the US",
     "price": "44,564"
   },
+  "an average new car": {
+    "plural": "average new cars",
+    "price": "27,300"
+  },
   "the yearly average wage in Mexico": {
     "plural": "yearly average wages in Mexico",
     "price": "15,311"
+  },
+  "an average used car": {
+    "plural": "average used cars",
+    "price": "8,900"
+  },
+  "a week-long trip to Hawaii for two": {
+    "plural": "week-long trips to Hawaii for two",
+    "price": "6,800"
   },
   "a high-end bicycle": {
     "plural": "high-end bicycles",
@@ -126,6 +146,10 @@
   "an iPhone X": {
     "plural": "iPhones X",
     "price": "1,000"
+  },
+  "a wheel of Parmigiano Reggiano": {
+    "plural": "wheels of Parmigiano Reggiano",
+    "price": "900"
   },
   "the yearly average wage in Somalia": {
     "plural": "yearly average wages in Somalia",
@@ -159,6 +183,10 @@
     "plural": "new video games",
     "price": "50"
   },
+  "a restaurant meal": {
+    "plural": "restaurant meals",
+    "price": "35"
+  },
   "a music lesson (30 min)": {
     "plural": "music lessons (30 min)",
     "price": "30"
@@ -191,6 +219,10 @@
     "plural": "pints of beer",
     "price": "5.5"
   },
+  "a dozen apples": {
+    "plural": "dozen apples",
+    "price": "5.5"
+  },
   "a big mac": {
     "plural": "big macs",
     "price": "4.2"
@@ -206,6 +238,10 @@
   "a coffee": {
     "plural": "coffees",
     "price": "2"
+  },
+  "a bottle of water": {
+    "plural": "bottles of water",
+    "price": "1.5"
   },
   "a liter of gasoline": {
     "plural": "liters of gasoline",
