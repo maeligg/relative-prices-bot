@@ -67,6 +67,10 @@
     "plural": "times the Channel Tunnel",
     "price": "22,960,000,000"
   },
+  "the cost of the 2016 US elections": {
+    "plural": "times the cost of the 2016 US elections",
+    "price": "6,500,000,000"
+  },
   "the box office revenue of Avatar": {
     "plural": "times the box office revenue of Avatar",
     "price": "2,788,000,000"
@@ -86,10 +90,6 @@
   "the cost of running Wikipedia for a year": {
     "plural": "years of running Wikipedia",
     "price": "18,500,000"
-  },
-  "the cost of the 2016 US elections": {
-    "plural": "times the cost of the 2016 US elections",
-    "price": "6,500,000"
   },
   "the most expensive production car (Bugatti Veyron)": {
     "plural": "of the most expensive production car (Bugatti Veyron)",
