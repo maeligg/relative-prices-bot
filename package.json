@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node index",
     "deploy":
-      "now -e consumer_key=@consumer_key -e consumer_secret=@consumer_secret -e access_token=@access_token -e access_token_secret=@access_token_secret"
+      "now -e consumer_key=@relative_prices_consumer_key -e consumer_secret=@relative_prices_consumer_secret -e access_token=@relative_prices_access_token -e access_token_secret=@relative_prices_access_token_secret"
   },
   "devDependencies": {
     "eslint": "^4.18.1",
