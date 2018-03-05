@@ -1,0 +1,214 @@
+{
+  "the world GDP": {
+    "plural": "times the world GDP",
+    "price": "77,868,000,000,000"
+  },
+  "the US GDP": {
+    "plural": "times the US GDP",
+    "price": "18,570,000,000,000"
+  },
+  "the US public debt": {
+    "plural": "times the US public debt",
+    "price": "13,620,000,000,000"
+  },
+  "all the gold ever mined": {
+    "plural": "times all the gold ever mined",
+    "price": "9,120,000,000,000"
+  },
+  "the US annual government spending": {
+    "plural": "times the US annual government spending",
+    "price": "7,230,000,000,000"
+  },
+  "the combined annual profit of the Fortune 500 companies": {
+    "plural": "times the combined annual profit of the Fortune 500 companies",
+    "price": "708,600,000,000"
+  },
+  "the US annual military spending": {
+    "plural": "times the US annual military spending",
+    "price": "703,030,000,000"
+  },
+  "the annual corporate revenue of Walmart": {
+    "plural": "times the annual corporate revenue of Walmart",
+    "price": "421,800,000,000"
+  },
+  "the market capitalisation of Apple": {
+    "plural": "times the market capitalisation of Apple",
+    "price": "358,310,000,000"
+  },
+  "the Apollo moon landing project": {
+    "plural": "times the Apollo moon landing project",
+    "price": "192,000,000,000"
+  },
+  "all bitcoins in circulation (as of March 2018)": {
+    "plural": "times all bitcoins in circulation (as of March 2018)",
+    "price": "185,996,000,000"
+  },
+  "the total US spending on cigarettes": {
+    "plural": "times the total US spending on cigarettes",
+    "price": "91,660,000,000"
+  },
+  "Bill Gates' fortune": {
+    "plural": "times Bill Gates' fortune",
+    "price": "86,000,000,000"
+  },
+  "Warren Buffett's fortune": {
+    "plural": "times Warren Buffett's fortune",
+    "price": "75,600,000,000"
+  },
+  "Jeff Bezos' fortune": {
+    "plural": "times Jeff Bezos' fortune",
+    "price": "72,800,000,000"
+  },
+  "Mark Zuckerberg's fortune": {
+    "plural": "times Mark Zuckerberg's fortune",
+    "price": "56,000,000,000"
+  },
+  "the Channel Tunnel": {
+    "plural": "times the Channel Tunnel",
+    "price": "22,960,000,000"
+  },
+  "the box office revenue of Avatar": {
+    "plural": "times the box office revenue of Avatar",
+    "price": "2,788,000,000"
+  },
+  "the Mona Lisa": {
+    "plural": "times the Mona Lisa",
+    "price": "730,660,000"
+  },
+  "an Airbus A380": {
+    "plural": "Airbuses A380",
+    "price": "264,000,000"
+  },
+  "a large city office building": {
+    "plural": "large city office buildings",
+    "price": "100,000,000"
+  },
+  "the cost of running Wikipedia for a year": {
+    "plural": "years of running Wikipedia",
+    "price": "18,500,000"
+  },
+  "the cost of the 2016 US elections": {
+    "plural": "times the cost of the 2016 US elections",
+    "price": "6,500,000"
+  },
+  "the most expensive production car (Bugatti Veyron)": {
+    "plural": "of the most expensive production car (Bugatti Veyron)",
+    "price": "2,400,000"
+  },
+  "Kate Middleton's wedding dress": {
+    "plural": "times Kate Middleton's wedding dress",
+    "price": "350,000"
+  },
+  "a seven-year Hogwarts degree": {
+    "plural": "seven-year Hogwarts degrees",
+    "price": "301,000"
+  },
+  "a cancer treatment (including chemo)": {
+    "plural": "cancer treatments (including chemo)",
+    "price": "117,260"
+  },
+  "Prince William and Kate Middleton's wedding cake": {
+    "plural": "times Prince William and Kate Middleton's wedding cake",
+    "price": "78,000"
+  },
+  "the yearly average wage in the US": {
+    "plural": "yearly average wages in the US",
+    "price": "44,564"
+  },
+  "the yearly average wage in Mexico": {
+    "plural": "yearly average wages in Mexico",
+    "price": "15,311"
+  },
+  "a high-end bicycle": {
+    "plural": "high-end bicycles",
+    "price": "1,500"
+  },
+  "an iPhone X": {
+    "plural": "iPhones X",
+    "price": "1,000"
+  },
+  "the yearly average wage in Somalia": {
+    "plural": "yearly average wages in Somalia",
+    "price": "600"
+  },
+  "a five star hotel room": {
+    "plural": "nights in a five star hotel room",
+    "price": "439"
+  },
+  "a low-end bicycle": {
+    "plural": "low-end bicycles",
+    "price": "190"
+  },
+  "a bouquet of roses": {
+    "plural": "bouquets of roses",
+    "price": "111.5"
+  },
+  "a daily car rental": {
+    "plural": "daily car rentals",
+    "price": "87"
+  },
+  "a pair of sports shoes": {
+    "plural": "pairs of sports shoes",
+    "price": "70"
+  },
+  "a pair of jeans": {
+    "plural": "pairs of jeans",
+    "price": "60"
+  },
+  "a new video game": {
+    "plural": "new video games",
+    "price": "50"
+  },
+  "a music lesson (30 min)": {
+    "plural": "music lessons (30 min)",
+    "price": "30"
+  },
+  "a good bottle of wine": {
+    "plural": "good bottles of wine",
+    "price": "30"
+  },
+  "a hardcover book": {
+    "plural": "hardcover books",
+    "price": "27"
+  },
+  "a pizza": {
+    "plural": "pizzas",
+    "price": "15"
+  },
+  "a movie ticket": {
+    "plural": "movie tickets",
+    "price": "12"
+  },
+  "a paperback book": {
+    "plural": "paperback books",
+    "price": "7"
+  },
+  "a pack of cigarettes": {
+    "plural": "packs of cigarettes",
+    "price": "6"
+  },
+  "a pint of beer": {
+    "plural": "pints of beer",
+    "price": "5.5"
+  },
+  "a big mac": {
+    "plural": "big macs",
+    "price": "4.2"
+  },
+  "a bottle of soft drink": {
+    "plural": "bottles of soft drink",
+    "price": "2.5"
+  },
+  "a ticket for public transportation": {
+    "plural": "tickets for public transportation",
+    "price": "2.5"
+  },
+  "a coffee": {
+    "plural": "coffees",
+    "price": "2"
+  },
+  "a liter of gasoline": {
+    "plural": "liters of gasoline",
+    "price": "1"
+  }
+}
