@@ -1,5 +1,5 @@
-const Twit = require("twit");
-const prices = require("./prices.json");
+const Twit = require('twit');
+const prices = require('./prices.json');
 
 // Uncomment these lines if running locally (see readme for more details)
 // const config = require('./config.js');
@@ -9,7 +9,7 @@ const T = new Twit({
   consumer_key: process.env.consumer_key,
   consumer_secret: process.env.consumer_secret,
   access_token: process.env.access_token,
-  access_token_secret: process.env.access_token_secret
+  access_token_secret: process.env.access_token_secret,
 });
 
 let selectedItemA;
@@ -20,13 +20,12 @@ const pickRandomItem = () => {
   return keys[Math.floor(Math.random() * keys.length)];
 };
 
-const stringToNumber = stringNumber =>
-  parseFloat(stringNumber.replace(/,/g, ""));
+const stringToNumber = stringNumber => parseFloat(stringNumber.replace(/,/g, ''));
 
-const formatNumber = number => {
+const formatNumber = (number) => {
   const string = number.toString();
 
-  const formattedString = string.replace(/(\d)(?=(\d{3})+$)/g, "$1,");
+  const formattedString = string.replace(/(\d)(?=(\d{3})+$)/g, '$1,');
 
   return formattedString;
 };
@@ -43,8 +42,7 @@ const comparePrices = () => {
   // We need to make sure the price different between the two items goes in the right direction and is big enough
   while (
     itemB === undefined ||
-    stringToNumber(prices[itemA].price) / stringToNumber(prices[itemB].price) <
-      2
+    stringToNumber(prices[itemA].price) / stringToNumber(prices[itemB].price) < 2
   ) {
     itemB = pickRandomItem();
   }
@@ -56,21 +54,17 @@ const comparePrices = () => {
 // Build and post the tweet
 const tweet = () => {
   comparePrices();
-  const ratio = formatNumber(
-    Math.floor(
-      stringToNumber(prices[selectedItemA].price) /
-        stringToNumber(prices[selectedItemB].price)
-    )
-  );
+  const ratio = formatNumber(Math.floor(stringToNumber(prices[selectedItemA].price) / stringToNumber(prices[selectedItemB].price)));
   const tweetText = `With ${selectedItemA}, you could buy ${ratio} ${
     prices[selectedItemB].plural
   }.`;
 
-  T.post("statuses/update", { status: tweetText }, (postErr, postData) => {
+  T.post('statuses/update', { status: tweetText }, (postErr, postData) => {
     if (postErr) {
-      console.log("error: ", postErr);
+      console.log('error: ', postErr);
+      tweet(); // Probably a duplicate status, try tweeting again
     } else {
-      console.log("response: ", postData);
+      console.log('response: ', postData);
     }
   });
 };
