@@ -207,6 +207,14 @@
     "plural": "movie tickets",
     "price": "12"
   },
+  "a Netflix subscription": {
+    "plural": "Netflix subscriptions",
+    "price": "10"
+  },
+  "a T-shirt": {
+    "plural": "T-shirts",
+    "price": "10"
+  },
   "a paperback book": {
     "plural": "paperback books",
     "price": "7"
