@@ -75,6 +75,10 @@
     "plural": "times the box office revenue of Avatar",
     "price": "2,788,000,000"
   },
+  "a cruise ship": {
+    "plural": "cruise ships",
+    "price": "1,200,000,000"
+  },
   "the Mona Lisa": {
     "plural": "times the Mona Lisa",
     "price": "730,660,000"
@@ -83,17 +87,37 @@
     "plural": "Airbuses A380",
     "price": "264,000,000"
   },
+  "a passenger jet": {
+    "plural": "yachts",
+    "price": "150,000,000"
+  },
   "a large city office building": {
     "plural": "large city office buildings",
     "price": "100,000,000"
+  },
+  "a mansion": {
+    "plural": "mansions",
+    "price": "50,000,000"
   },
   "the cost of running Wikipedia for a year": {
     "plural": "years of running Wikipedia",
     "price": "18,500,000"
   },
+  "an F16": {
+    "plural": "F16s",
+    "price": "15,000,000"
+  },
+  "a yacht": {
+    "plural": "yachts",
+    "price": "10,000,000"
+  },
   "the most expensive production car (Bugatti Veyron)": {
     "plural": "of the most expensive production car (Bugatti Veyron)",
     "price": "2,400,000"
+  },
+  "a bar of gold": {
+    "plural": "bars of gold",
+    "price": "500,000"
   },
   "Kate Middleton's wedding dress": {
     "plural": "times Kate Middleton's wedding dress",
@@ -102,6 +126,22 @@
   "a seven-year Hogwarts degree": {
     "plural": "seven-year Hogwarts degrees",
     "price": "301,000"
+  },
+  "a Ferrari": {
+    "plural": "Ferraris",
+    "price": "200,000"
+  },
+  "a Lamborghini": {
+    "plural": "Lamborghinis",
+    "price": "200,000"
+  },
+  "a townhouse": {
+    "plural": "townhouses",
+    "price": "200,000"
+  },
+  "an helicopter": {
+    "plural": "helicopters",
+    "price": "175,000"
   },
   "a cancer treatment (including chemo)": {
     "plural": "cancer treatments (including chemo)",
@@ -123,6 +163,10 @@
     "plural": "yearly average wages in the US",
     "price": "44,564"
   },
+  "a speed boat": {
+    "plural": "speed boats",
+    "price": "30,000"
+  },
   "an average new car": {
     "plural": "average new cars",
     "price": "27,300"
@@ -131,9 +175,25 @@
     "plural": "yearly average wages in Mexico",
     "price": "15,311"
   },
+  "a Rolex": {
+    "plural": "Rolexes",
+    "price": "15,000"
+  },
+  "a 4K TV": {
+    "plural": "4K TVs",
+    "price": "10,000"
+  },
+  "a diamond ring": {
+    "plural": "diamond rings",
+    "price": "10,000"
+  },
   "an average used car": {
     "plural": "average used cars",
     "price": "8,900"
+  },
+  "a jetski": {
+    "plural": "jetskis",
+    "price": "600"
   },
   "a week-long trip to Hawaii for two": {
     "plural": "week-long trips to Hawaii for two",
@@ -143,8 +203,8 @@
     "plural": "high-end bicycles",
     "price": "1,500"
   },
-  "an iPhone X": {
-    "plural": "iPhones X",
+  "an iPhone": {
+    "plural": "iPhones",
     "price": "1,000"
   },
   "a wheel of Parmigiano Reggiano": {
@@ -155,17 +215,25 @@
     "plural": "yearly average wages in Somalia",
     "price": "600"
   },
+  "a smartphone": {
+    "plural": "smartphones",
+    "price": "600"
+  },
+  "a gaming console": {
+    "plural": "gaming consoles",
+    "price": "600"
+  },
   "a five star hotel room": {
     "plural": "nights in a five star hotel room",
     "price": "439"
   },
+  "a skateboard": {
+    "plural": "skateboards",
+    "price": "300"
+  },
   "a low-end bicycle": {
     "plural": "low-end bicycles",
     "price": "190"
-  },
-  "a bouquet of roses": {
-    "plural": "bouquets of roses",
-    "price": "111.5"
   },
   "a daily car rental": {
     "plural": "daily car rentals",
@@ -178,6 +246,10 @@
   "a pair of jeans": {
     "plural": "pairs of jeans",
     "price": "60"
+  },
+  "a bouquet of roses": {
+    "plural": "bouquets of roses",
+    "price": "50"
   },
   "a new video game": {
     "plural": "new video games",
